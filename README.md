@@ -3,3 +3,7 @@
 [离散数学](https://github.com/spiderT/booknotes/blob/master/DiscreteMaths.md)  
 
 [商务智能](https://github.com/spiderT/booknotes/blob/master/BI.md)  
+
+[组合数学](https://github.com/spiderT/booknotes/blob/master/Combinatorics.md)  
+
+
