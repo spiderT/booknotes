@@ -6,4 +6,6 @@
 
 [组合数学](https://github.com/spiderT/booknotes/blob/master/Combinatorics.md)  
 
+[软件工程](https://github.com/spiderT/booknotes/blob/master/SoftwareEngineering.md)  
+
 
