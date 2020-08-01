@@ -1,10 +1,84 @@
 # 软件工程
 
-## 1. 课件内容
+## 1. 软件与软件工程
+
+### 1.1. 软件工程中常见问题
+
+#### 软件工程的基本问题  
+
+**What is software?**  
+Computer programs and associated documentation. Software products may be developed for a particular customer or may be developed for a general market.  
+
+**What are the attributes of good software?**  
+Good software should deliver the required functionality and performance to the user and should be maintainable,dependable and usable.  
+
+**What is software engineering?**
+Software engineering is an engineering discipline that is concerned with all aspects of software production.  
+
+**What are the fundamental software engineering activities?**  
+Software specification, software development, software validation and software evolution.  
+
+**What is the difference between software engineering and computer science?**  
+
+Computer science focuses on theory and fundamentals; software engineering is concerned with the practicalities of developing and delivering useful software.  
+
+**What is the difference between software engineering and system engineering?**  
+System engineering is concerned with all aspects of computer-based systems development including hardware,software and process engineering. Software engineering is parts of this more general process.  
+
+**What are the key challenges facing software engineering?**  
+Coping with increasing diversity, demands for reduced delivery times and developing trustworthy software.  
+
+**What are the costs of software engineering?**  
+Roughly 60% of software costs are development costs, 40% are testing costs. For custom software, evolution costsoften exceed development costs.  
+
+**What are the best software engineering techniques and methods?**  
+While all software projects have to be professionally managed and developed, different techniques are appropriate for different types of system. For example, games should always be developed using a series of prototypes, whereas safety critical control systems require a complete and analyzable specification to be developed. You can’t, therefore, say that one method is better than another.  
+
+**What are the main uncertainties in software development?**  
+Environmental uncertainty and software complexity  
+
+#### 软件的构成  
+
+Software is a set of items or objects that form a “configuration” that includes  
+• programs  
+• documents  
+• data ...  
+
+![软件的构成 ](images/soft17.png)
+
+#### 软件的特点
+
+1) 软件是一种逻辑实体，而不是具体的物 理实体。因而它具有抽象性。  
+2) 软件的生成与硬件不同，在软件的开发 过程中没有明显的制造过程。  
+3) 在软件的运行和使用期间，没有硬件那 样的机械磨损、老化问题。  
+4) 软件的开发和运行常常受到计算机系统 的限制，对计算机系统有着不同程序的 依赖性。  
+5) 软件开发至今尚未完全摆脱手工的开发 方式。  
+6) 软件的复杂性。  
+7) 软件成本相当昂贵。  
+8) 社会性.  
+
+#### 软件的分类
+
+ 按功能进行划分  
+ 按规模进行划分  
+ 按工作方式划分  
+ 按服务对象的范围划分  
+ 按使的频度进行划分  
+ 按失效的影响进行划分  
 
 
 
-## 2. 试题
+### 1.2. 软件工程的基本概念
+
+### 1.3. 软件生存期模型
+
+
+### 1.4.软件工程知识体系
+
+
+
+
+## PART 2. 试题
 
 ### 2.1. 2004 年软工程-同等学力计算机综合真题及答案
 
