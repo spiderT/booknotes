@@ -1096,31 +1096,55 @@ Peter Code提出的一个好的系统设计应该有如下特性：
  迪米特原则（LoD）：不要跟陌生人说话  
  单一职责原则（SRP）：一个类有且只有一个改变的理由。  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 6. 软件测试
+
+### 6.1. 软件测试
+
+软件测试是为了发现软件产品所存在的软件缺陷（bug），从而纠正（fix）这些软件缺陷，使软件系统更好地满足用户的需求。  
+
+测试的定义-测试是使用人工和自动手段来运行或检测某个系统的过程，其目的在于检验系统是否满足规定的需求或弄清预期结果与实际结果之间的差别。  
+
+测试目的  
+ 测试是程序的执行过程，目的在于发现错误；  
+ 一个好的测试用例在于能够发现至今未发现的错误；  
+ 一个成功的测试是发现了至今未发现的错误的测试。  
+
+软件测试的一般原则  
+ 尽早和不断地进行软件测试  
+ 测试用例合理  
+ 程序员避免检查自己的程序  
+ 用例应包括不合理的输入条件  
+ 注意错误的群集现象(80%错误来自20%的模块）  
+ 严格执行测试计划  
+ 对测试结果作全面检查  
+ 妥善保存测试计划和用例。  
+
+Davie测试原则  
+所有测试都应追溯到用户需求  
+应在测试前较早时间就制定测试计划  
+应用Pareto的原则到测试中  
+测试从“小规模”到“大规模”  
+穷举测试是不可能的  
+应该由第三方来构造测试  
+
+#### 软件可测试性（testability）  
+
+ 可操作性  
+Operability—it operates cleanly  
+ 可观察性  
+Observability—the results of each test case are readily observed  
+ 可控制性  
+Controlability—the degree to which testing can be automated and optimized  
+ 可分解性  
+Decomposability—testing can be targeted  
+ 简单性  
+Simplicity—reduce complex architecture and logic to simplify tests  
+ 稳定性  
+Stability—few changes are requested during testing  
+ 易理解性  
+Understandability—of the design  
+
+### 6.2. 软件测试活动
 
 
 
